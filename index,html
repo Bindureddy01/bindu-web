@@ -1,0 +1,16 @@
+<html>
+    <head>
+       <title>First Website | Home Page</title>
+       <!-- head has only 5 tags title,meta, style,link,script -->
+    </head>
+    <body>
+        <img src="./logo.png" />
+        <a>Home</a>
+        <a></a>About</a>
+        <a>Services</a>
+        <a>Employees</a>
+        <a>Contact</a>
+        <a >Login</a>
+
+        </body>
+</html>
